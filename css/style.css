@@ -6,7 +6,6 @@
 
 body {
     background-color: #121212;
-    background-color: #F8FAFC;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #1F2937;
 }
@@ -49,7 +48,8 @@ header {
 }
 
 #menu a:hover {
-    background-color: #FFFFFF;
+    background-color:#0B4F6C;
+    color:#2c2018
 }
 
 #slogan {
@@ -88,7 +88,7 @@ header {
 .sobre {
     width: 30%;
     min-width: 280px;
-    background-color: #FFFFFF;
+    background-color: rgb(126, 125, 125);
     border-radius: 12px;
     border: 1px solid #E5E7EB;
     padding: 20px;
